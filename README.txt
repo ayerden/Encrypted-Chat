@@ -29,4 +29,4 @@ These key is encrypted and sent to Client, Client then decrypts this key using p
 
 5. Message back to back from terminal to terminal as you like.
 
-6. Terminate the program by typing the keyword 'done' from the Client terminal.
+6. Terminate the program by typing the keyword 'disconnect' from the Client terminal.

@@ -1,4 +1,4 @@
-# Names: Adam Yerden
+# Names: Adam Yerden and Trevor Butler
 # Course: CIS 475 Intro to Cryptography
 # Assignment: RSA chat Program
 # Due: May 14, 2021
